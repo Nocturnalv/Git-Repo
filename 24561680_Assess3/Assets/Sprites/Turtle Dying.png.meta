@@ -162,10 +162,10 @@ TextureImporter:
       name: Turtle Dying_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 102
-        width: 22
-        height: 21
+        x: 29
+        y: 514
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +183,10 @@ TextureImporter:
       name: Turtle Dying_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 102
-        width: 22
-        height: 21
+        x: 189
+        y: 514
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Turtle Dying_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 102
-        width: 22
-        height: 21
+        x: 349
+        y: 514
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Turtle Dying_3
       rect:
         serializedVersion: 2
-        x: 5
-        y: 70
-        width: 22
-        height: 21
+        x: 29
+        y: 354
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +246,10 @@ TextureImporter:
       name: Turtle Dying_4
       rect:
         serializedVersion: 2
-        x: 37
-        y: 70
-        width: 22
-        height: 21
+        x: 189
+        y: 354
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: Turtle Dying_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 70
-        width: 22
-        height: 21
+        x: 349
+        y: 354
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +288,10 @@ TextureImporter:
       name: Turtle Dying_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 38
-        width: 22
-        height: 21
+        x: 29
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +309,10 @@ TextureImporter:
       name: Turtle Dying_7
       rect:
         serializedVersion: 2
-        x: 37
-        y: 38
-        width: 22
-        height: 21
+        x: 189
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Turtle Dying_8
       rect:
         serializedVersion: 2
-        x: 69
-        y: 38
-        width: 22
-        height: 21
+        x: 349
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +351,10 @@ TextureImporter:
       name: Turtle Dying_9
       rect:
         serializedVersion: 2
-        x: 5
-        y: 6
-        width: 22
-        height: 21
+        x: 29
+        y: 34
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: Turtle Dying_10
       rect:
         serializedVersion: 2
-        x: 37
-        y: 6
-        width: 22
-        height: 21
+        x: 189
+        y: 34
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: Turtle Dying_11
       rect:
         serializedVersion: 2
-        x: 69
-        y: 6
-        width: 22
-        height: 21
+        x: 349
+        y: 34
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

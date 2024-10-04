@@ -144,10 +144,10 @@ TextureImporter:
       name: Turtle Swims_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 38
-        width: 22
-        height: 21
+        x: 29
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: Turtle Swims_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 38
-        width: 22
-        height: 21
+        x: 189
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +186,10 @@ TextureImporter:
       name: Turtle Swims_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 38
-        width: 22
-        height: 21
+        x: 349
+        y: 194
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Turtle Swims_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6
-        width: 20
-        height: 21
+        x: 34
+        y: 34
+        width: 92
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Turtle Swims_4
       rect:
         serializedVersion: 2
-        x: 38
-        y: 6
-        width: 20
-        height: 21
+        x: 194
+        y: 34
+        width: 92
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: Turtle Swims_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 6
-        width: 22
-        height: 21
+        x: 349
+        y: 34
+        width: 102
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

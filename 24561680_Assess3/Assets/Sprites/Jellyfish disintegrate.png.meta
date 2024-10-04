@@ -26,6 +26,138 @@ TextureImporter:
   - first:
       213: 7152687026244233158
     second: Jellyfish disintegrate_7
+  - first:
+      213: -3012033061360266000
+    second: Jellyfish disintegrate_8
+  - first:
+      213: 2372079251926596426
+    second: Jellyfish disintegrate_9
+  - first:
+      213: 2933716952862885803
+    second: Jellyfish disintegrate_10
+  - first:
+      213: -4985319086799206911
+    second: Jellyfish disintegrate_11
+  - first:
+      213: 6002665636032406107
+    second: Jellyfish disintegrate_12
+  - first:
+      213: -8055360556977771442
+    second: Jellyfish disintegrate_13
+  - first:
+      213: 1271899356217917356
+    second: Jellyfish disintegrate_14
+  - first:
+      213: -4129286581416838747
+    second: Jellyfish disintegrate_15
+  - first:
+      213: -2923223631759850631
+    second: Jellyfish disintegrate_16
+  - first:
+      213: -5573444750309027376
+    second: Jellyfish disintegrate_17
+  - first:
+      213: -7651221574386159516
+    second: Jellyfish disintegrate_18
+  - first:
+      213: -3789866549009565759
+    second: Jellyfish disintegrate_19
+  - first:
+      213: -2890938340980414429
+    second: Jellyfish disintegrate_20
+  - first:
+      213: -1591188538760472832
+    second: Jellyfish disintegrate_21
+  - first:
+      213: 6856007231726193539
+    second: Jellyfish disintegrate_22
+  - first:
+      213: 2257955913412132736
+    second: Jellyfish disintegrate_23
+  - first:
+      213: -8724040916195880147
+    second: Jellyfish disintegrate_24
+  - first:
+      213: -3943423330740467983
+    second: Jellyfish disintegrate_25
+  - first:
+      213: 9163970239755885432
+    second: Jellyfish disintegrate_26
+  - first:
+      213: -1569004837460556893
+    second: Jellyfish disintegrate_27
+  - first:
+      213: -6668498289148574490
+    second: Jellyfish disintegrate_28
+  - first:
+      213: -725766776416670221
+    second: Jellyfish disintegrate_29
+  - first:
+      213: -2170274213156879969
+    second: Jellyfish disintegrate_30
+  - first:
+      213: -7436257052859289273
+    second: Jellyfish disintegrate_31
+  - first:
+      213: 1925764803686525896
+    second: Jellyfish disintegrate_32
+  - first:
+      213: -1439088641326517335
+    second: Jellyfish disintegrate_33
+  - first:
+      213: -170076599412319597
+    second: Jellyfish disintegrate_34
+  - first:
+      213: 7641681903768910164
+    second: Jellyfish disintegrate_35
+  - first:
+      213: -3600167368013192178
+    second: Jellyfish disintegrate_36
+  - first:
+      213: 3034238128998330036
+    second: Jellyfish disintegrate_37
+  - first:
+      213: 6789608831844665613
+    second: Jellyfish disintegrate_38
+  - first:
+      213: -6689552865665930413
+    second: Jellyfish disintegrate_39
+  - first:
+      213: 4826229292819791777
+    second: Jellyfish disintegrate_40
+  - first:
+      213: 246738328411943906
+    second: Jellyfish disintegrate_41
+  - first:
+      213: -2956568935434794163
+    second: Jellyfish disintegrate_42
+  - first:
+      213: -7557864161598305840
+    second: Jellyfish disintegrate_43
+  - first:
+      213: -7347153555371554085
+    second: Jellyfish disintegrate_44
+  - first:
+      213: 4076575011318329844
+    second: Jellyfish disintegrate_45
+  - first:
+      213: -4792712904003237211
+    second: Jellyfish disintegrate_46
+  - first:
+      213: -1229465250760500222
+    second: Jellyfish disintegrate_47
+  - first:
+      213: -8455503111126060725
+    second: Jellyfish disintegrate_48
+  - first:
+      213: -3755274395471418119
+    second: Jellyfish disintegrate_49
+  - first:
+      213: -5179784998350943540
+    second: Jellyfish disintegrate_50
+  - first:
+      213: 8695325649726754019
+    second: Jellyfish disintegrate_51
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -150,10 +282,10 @@ TextureImporter:
       name: Jellyfish disintegrate_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 99
-        width: 24
-        height: 26
+        x: 24
+        y: 499
+        width: 112
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +303,10 @@ TextureImporter:
       name: Jellyfish disintegrate_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 100
-        width: 24
-        height: 25
+        x: 184
+        y: 514
+        width: 112
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,10 +324,10 @@ TextureImporter:
       name: Jellyfish disintegrate_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 101
-        width: 23
-        height: 24
+        x: 234
+        y: 504
+        width: 12
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +345,10 @@ TextureImporter:
       name: Jellyfish disintegrate_3
       rect:
         serializedVersion: 2
-        x: 5
-        y: 70
-        width: 23
-        height: 22
+        x: 349
+        y: 514
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +366,10 @@ TextureImporter:
       name: Jellyfish disintegrate_4
       rect:
         serializedVersion: 2
-        x: 37
-        y: 42
-        width: 49
-        height: 50
+        x: 394
+        y: 509
+        width: 12
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +387,10 @@ TextureImporter:
       name: Jellyfish disintegrate_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 72
-        width: 23
-        height: 20
+        x: 29
+        y: 364
+        width: 107
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +408,10 @@ TextureImporter:
       name: Jellyfish disintegrate_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 49
-        width: 11
-        height: 11
+        x: 189
+        y: 364
+        width: 97
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +429,10 @@ TextureImporter:
       name: Jellyfish disintegrate_7
       rect:
         serializedVersion: 2
-        x: 10
-        y: 42
-        width: 18
-        height: 18
+        x: 284
+        y: 414
+        width: 12
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,6 +442,930 @@ TextureImporter:
       bones: []
       spriteID: 6c725dc24f2734360800000000000000
       internalID: 7152687026244233158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 394
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f493ed93eb1336d0800000000000000
+      internalID: -3012033061360266000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 414
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb82603815be020800000000000000
+      internalID: 2372079251926596426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 354
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70fee6608a6b820800000000000000
+      internalID: 2933716952862885803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 354
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106cb5334b690dab0800000000000000
+      internalID: -4985319086799206911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 384
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e72da790cd4350800000000000000
+      internalID: 6002665636032406107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 364
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca5a7a04c953090800000000000000
+      internalID: -8055360556977771442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 374
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafba65c9b1b6a110800000000000000
+      internalID: 1271899356217917356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9bcda6bb3d1b6c0800000000000000
+      internalID: -4129286581416838747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9734de5489f9e67d0800000000000000
+      internalID: -2923223631759850631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 289
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1909a678527a2b0800000000000000
+      internalID: -5573444750309027376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 284
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46078e8148661d590800000000000000
+      internalID: -7651221574386159516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 289
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c736280470b76bc0800000000000000
+      internalID: -3789866549009565759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282e4e45e251e7d0800000000000000
+      internalID: -2890938340980414429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00752885476fae9e0800000000000000
+      internalID: -1591188538760472832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b8c88a04e652f50800000000000000
+      internalID: 6856007231726193539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 269
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f3c69a0fed55f10800000000000000
+      internalID: 2257955913412132736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 274
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23db28320bfde680800000000000000
+      internalID: -8724040916195880147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60a34bf552649c0800000000000000
+      internalID: -3943423330740467983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b96e85166fc2f70800000000000000
+      internalID: 9163970239755885432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34b4cc966c93ae0800000000000000
+      internalID: -1569004837460556893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 264
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4cff1232cb473a0800000000000000
+      internalID: -6668498289148574490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 249
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd67ed46fe8de5f0800000000000000
+      internalID: -725766776416670221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 244
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91089b0a13a1e1e0800000000000000
+      internalID: -2170274213156879969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74134d10c9b1dc890800000000000000
+      internalID: -7436257052859289273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb6fa4c2e0b9ba10800000000000000
+      internalID: 1925764803686525896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 269
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3fe6d5184570ce0800000000000000
+      internalID: -1439088641326517335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1c63eb34c3adf0800000000000000
+      internalID: -170076599412319597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4593da04435bc0a60800000000000000
+      internalID: 7641681903768910164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04ee917ad2a90ec0800000000000000
+      internalID: -3600167368013192178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 254
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be24e29087cb1a20800000000000000
+      internalID: 3034238128998330036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09c4f97249893e50800000000000000
+      internalID: 6789608831844665613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 249
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b29c78c1fe923a0800000000000000
+      internalID: -6689552865665930413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afbb1ba8f53af240800000000000000
+      internalID: 4826229292819791777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3b771d3379c6300800000000000000
+      internalID: 246738328411943906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b4471c73828f6d0800000000000000
+      internalID: -2956568935434794163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 244
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9074b96921d1790800000000000000
+      internalID: -7557864161598305840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda84dda4caa90a90800000000000000
+      internalID: -7347153555371554085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 214
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1fcd9cf57e29830800000000000000
+      internalID: 4076575011318329844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac476b10ddc7db0800000000000000
+      internalID: -4792712904003237211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cdbb05edf00fee0800000000000000
+      internalID: -1229465250760500222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41fe1838b408aa80800000000000000
+      internalID: -8455503111126060725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6ec765d592ebc0800000000000000
+      internalID: -3755274395471418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0568dcf4bd18b0800000000000000
+      internalID: -5179784998350943540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jellyfish disintegrate_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4e4ecb900ca870800000000000000
+      internalID: 8695325649726754019
       vertices: []
       indices: 
       edges: []
